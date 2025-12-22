@@ -1,0 +1,14 @@
+# General
+*.log
+*.swp
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+
+# System
+.env
